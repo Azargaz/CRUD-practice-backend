@@ -17,7 +17,7 @@ var db = require('knex')({
         password: process.env.DB_PASS,
         database: process.env.DB_NAME
     },
-    searchPath: ['app_schema']
+    searchPath: process.env.DB_SCHEMA
 });
 
 // Kontrolery = zapytania do bd
