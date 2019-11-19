@@ -17,4 +17,5 @@ DB_SCHEMA="schema in which you have"
 
 And finally run everything with command `npm start`.
 
-Now you can either test the API with programs like [Postman](https://www.getpostman.com/) or get the [frontend here](https://github.com/Azargaz/CRUD-practice-frontend) and test the API there.
+Now you can either test the API with programs like [Postman](https://www.getpostman.com/) or get the [frontend here](https://github.com/Azargaz/CRUD-practice-frontend) and test the API there. 
+Important: you need to run backend on port 3000 and the frontend 3001.
