@@ -1,6 +1,6 @@
 ## react-postgres-backend
 
-Simple backend for PostgreSQL database CRUD requests. Frontend for this app here: [frontend API](https://github.com/Azargaz/CRUD-practice-backend). 
+Simple backend for PostgreSQL database CRUD requests. Frontend for this app [here](https://github.com/Azargaz/CRUD-practice-backend).
 
 Created with Express.js + Knex and PostgreSQL DB.
 
@@ -16,3 +16,5 @@ DB_NAME="your database name"
 DB_SCHEMA="schema in which you have"
 
 And finally run everything with command `npm start`.
+
+Now you can either test the API with programs like [Postman](https://www.getpostman.com/) or get the [frontend here](https://github.com/Azargaz/CRUD-practice-backend) and test the API there.
