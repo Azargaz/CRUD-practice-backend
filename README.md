@@ -13,7 +13,7 @@ Then create .env file with these variables:
 - DB_USER="your database username"
 - DB_PASS="your db user's password"
 - DB_NAME="your database name"
-- DB_SCHEMA="schema in which you have"
+- DB_SCHEMA="schema in which you have created test1 table"
 
 Then install dependencies with `npm install`,
 and finally run everything with command `npm start`.
