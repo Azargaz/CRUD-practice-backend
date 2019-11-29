@@ -1,4 +1,4 @@
-## react-postgres-backend
+## CRUD-practice-backend
 
 Simple backend for PostgreSQL database CRUD requests. Frontend for this app [here](https://github.com/Azargaz/CRUD-practice-frontend).
 
